@@ -1,0 +1,26 @@
+header{
+    background-color: blanchedalmond;
+    text-align: Center;
+    height: 50px;
+    padding-inline: 50%;
+    }
+
+article,aside {
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    float: left;
+    
+}
+article{
+    background-color: brown;
+    
+}
+aside{
+    background-color: chartreuse;
+    
+}
+footer{
+    background-color: darkcyan;
+    text-align: center;
+}
